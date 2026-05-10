@@ -1,0 +1,22 @@
+{
+  "login": "تسجيل الدخول",
+  "phone_number": "رقم الهاتف",
+  "password": "كلمة المرور",
+  "forgot_password": "نسيت كلمة المرور؟",
+  "continue_google": "المتابعة عبر Google",
+  "dont_have_account": "ليس لديك حساب؟",
+  "sign_up": "إنشاء حساب",
+  "or": "أو",
+  "signup_title": "لنقم بتسجيلك",
+  "signup_subtitle": "ستبدأ رحلة رائعة.",
+  "full_name": "الاسم الكامل",
+  "confirm_password": "تأكيد كلمة المرور",
+  "email_optional": "البريد الإلكتروني (اختياري)",
+  "agreeing_to": "الموافقة على",
+  "terms": "الشروط والأحكام.",
+  "send_otp": "إرسال رمز OTP",
+  "already_account": "لديك حساب بالفعل؟",
+  "sign_in": "تسجيل الدخول",
+  "mobile": "موبايل",
+  "sora": "صورة"
+}

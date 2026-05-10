@@ -1,0 +1,22 @@
+{
+  "login": "Login",
+  "phone_number": "phone number",
+  "password": "password",
+  "forgot_password": "Forgot password?",
+  "continue_google": "Continue with Google",
+  "dont_have_account": "don't have an account?",
+  "sign_up": "Sign Up",
+  "or": "or",
+  "signup_title": "Let's sign you up",
+  "signup_subtitle": "you will have a great\njourney.",
+  "full_name": "full name",
+  "confirm_password": "confirm password",
+  "email_optional": "email (optional)",
+  "agreeing_to": "agreeing to",
+  "terms": "terms and conditions.",
+  "send_otp": "Send OTP",
+  "already_account": "Already have an account?",
+  "sign_in": "Sign in",
+  "mobile": "mobile",
+  "sora": "صورة"
+}
